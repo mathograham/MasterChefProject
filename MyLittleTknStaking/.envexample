@@ -1,0 +1,3 @@
+PRIVATE_KEY='Your_MetaMask_private_key_as_a_string'
+WEB3_INFURA_PROJECT_ID='Your_Infura_project_ID_as_a_string'
+ETHERSCAN_TOKEN='Your_Etherscan_API_token_as_a_string_for_publishing_contract'
