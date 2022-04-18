@@ -3,7 +3,7 @@ MasterChef solidity contract for a BEP-20 token, MyLittleToken. Includes faux LP
 
 # Contract Addresses
 
-Deployed on Rinkeby Testnet.
+Deployed on Ropsten Testnet.
 
 MyLittleToken (MLTKN) Address: [0xa7cD3D3BB7d06b9De3b1a96247074BE6dA0a27d4](https://ropsten.etherscan.io/address/0xa7cD3D3BB7d06b9De3b1a96247074BE6dA0a27d4)
 
